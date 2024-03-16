@@ -1,6 +1,6 @@
 @DataProcessorApi_HostAddress = http://localhost:5292
 
-GET {{DataProcessorApi_HostAddress}}/weatherforecast/
+GET {{DataProcessorApi_HostAddress}}/DataJob/
 Accept: application/json
 
 ###
